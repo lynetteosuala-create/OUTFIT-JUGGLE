@@ -1,0 +1,6 @@
+{
+  "name": "Outfit Juggle",
+  "description": "AI-powered digital wardrobe that mixes, matches, and juggles your clothes into stylish, coordinated outfits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
